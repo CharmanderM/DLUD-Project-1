@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/anaconda3/envs/image-tool/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
